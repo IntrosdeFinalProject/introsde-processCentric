@@ -2,4 +2,6 @@
 Process Centric Service
 
 
-https://damp-sea-9180.herokuapp.com/introsde/processCentric/
+Description of Process Centic Service Endpoints:
+
+https://github.com/IntrosdeFinalProject/introsde-processCentric/wiki
